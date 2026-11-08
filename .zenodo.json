@@ -1,0 +1,41 @@
+{
+  "title": "Exact Gram Inversion for Fractional-Part Approximation",
+  "description": "<p>Exact finite Gram inversion, ordinary sawtooth least-squares errors and rigorous reciprocal-dilate certificates. The Riemann hypothesis and the limiting reciprocal approximation criterion remain unproved.</p><p>We solve the finite least-squares problem for ordinary sawtooth dilates by explicit Gram inversion and obtain its exact error and asymptotic constant. For the distinct reciprocal-dilate problem, we derive rational Gram certificates, rigorous residual intervals and Hardy-space zero bounds. The Riemann hypothesis remains open.</p>",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "affiliation": "Electro-Gravitational Space Propulsion Laboratory (EGSPL), India",
+      "orcid": "0000-0003-0466-750X"
+    },
+    {
+      "name": "Nandi, Pallab",
+      "affiliation": "Former student, Indian Institute of Science Education and Research Kolkata, India"
+    },
+    {
+      "name": "Frederick, Onwuka",
+      "affiliation": "Ekiti State University, Ado-Ekiti, Nigeria"
+    },
+    {
+      "name": "Samal, Priyanka",
+      "affiliation": "Independent researcher, India",
+      "orcid": "0000-0002-2343-9169"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "version": "3.0.0",
+  "keywords": [
+    "fractional-part approximation",
+    "GCD matrices",
+    "Möbius inversion",
+    "Nyman–Beurling criterion"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.preprints.org/manuscript/202506.0772/v2",
+      "relation": "isNewVersionOf",
+      "scheme": "url"
+    }
+  ]
+}

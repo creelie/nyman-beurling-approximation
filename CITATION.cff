@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and the original sources it credits."
+title: "Exact Gram Inversion for Fractional-Part Approximation"
+type: article
+version: 3.0.0
+license: CC-BY-4.0
+repository-code: https://github.com/creelie/nyman-beurling-approximation
+authors:
+  - family-names: "Bhattacharjee"
+    given-names: "Deep"
+    affiliation: "Electro-Gravitational Space Propulsion Laboratory (EGSPL), India"
+    orcid: https://orcid.org/0000-0003-0466-750X
+  - family-names: "Nandi"
+    given-names: "Pallab"
+    affiliation: "Former student, Indian Institute of Science Education and Research Kolkata, India"
+  - family-names: "Frederick"
+    given-names: "Onwuka"
+    affiliation: "Ekiti State University, Ado-Ekiti, Nigeria"
+  - family-names: "Samal"
+    given-names: "Priyanka"
+    affiliation: "Independent researcher, India"
+    orcid: https://orcid.org/0000-0002-2343-9169

@@ -1,0 +1,285 @@
+{
+  "Smith": {
+    "doi": "10.1112/plms/s1-7.1.208",
+    "title": [
+      "On the Value of a Certain Arithmetical Determinant"
+    ],
+    "authors": [
+      {
+        "given": "Henry J. Stephen",
+        "family": "Smith",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1875,
+          11
+        ]
+      ]
+    },
+    "container": [
+      "Proceedings of the London Mathematical Society"
+    ],
+    "volume": "s1-7",
+    "page": "208-213",
+    "publisher": "Wiley",
+    "URL": "https://doi.org/10.1112/plms/s1-7.1.208",
+    "verified_at": "2026-11-08"
+  },
+  "ABS": {
+    "doi": "10.4171/JEMS/537",
+    "title": [
+      "GCD sums from Poisson integrals and systems of dilated functions"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1460-6164",
+        "authenticated-orcid": false,
+        "given": "Christoph",
+        "family": "Aistleitner",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Technische Universität Graz, Austria"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "István",
+        "family": "Berkes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Technische Universität Graz, Austria"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kristian",
+        "family": "Seip",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Trondheim, Norway"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          5,
+          28
+        ]
+      ]
+    },
+    "container": [
+      "Journal of the European Mathematical Society"
+    ],
+    "volume": "17",
+    "page": "1517-1546",
+    "publisher": "European Mathematical Society - EMS - Publishing House GmbH",
+    "URL": "https://doi.org/10.4171/jems/537",
+    "verified_at": "2026-11-08"
+  },
+  "Beurling": {
+    "doi": "10.1073/pnas.41.5.312",
+    "title": [
+      "A CLOSURE PROBLEM RELATED TO THE RIEMANN ZETA-FUNCTION"
+    ],
+    "authors": [
+      {
+        "given": "Arne",
+        "family": "Beurling",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "INSTITUTE FOR ADVANCED STUDY, PRINCETON, NEW JERSEY"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1955,
+          5,
+          15
+        ]
+      ]
+    },
+    "container": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "volume": "41",
+    "page": "312-314",
+    "publisher": "National Academy of Sciences",
+    "URL": "https://doi.org/10.1073/pnas.41.5.312",
+    "verified_at": "2026-11-08"
+  },
+  "Kalman": {
+    "doi": "10.1115/1.3662552",
+    "title": [
+      "A New Approach to Linear Filtering and Prediction Problems"
+    ],
+    "authors": [
+      {
+        "given": "R. E.",
+        "family": "Kalman",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Research Institute for Advanced Study, Baltimore, Md."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1960,
+          3,
+          1
+        ]
+      ]
+    },
+    "container": [
+      "Journal of Basic Engineering"
+    ],
+    "volume": "82",
+    "page": "35-45",
+    "publisher": "ASME International",
+    "URL": "https://doi.org/10.1115/1.3662552",
+    "verified_at": "2026-11-08"
+  },
+  "NBPrevious": {
+    "doi": "10.20944/preprints202506.0772.v2",
+    "title": [
+      "Spectral and Analytic Structure of the Nyman–Beurling–Báez–Duarte Approximation"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0466-750X",
+        "authenticated-orcid": false,
+        "given": "Deep",
+        "family": "Bhattacharjee",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Pallab",
+        "family": "Nandi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Onwuka",
+        "family": "Frederick",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Priyanka",
+        "family": "Samal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          10
+        ]
+      ]
+    },
+    "container": [],
+    "volume": null,
+    "page": null,
+    "publisher": "MDPI AG",
+    "URL": "https://doi.org/10.20944/preprints202506.0772.v2",
+    "verified_at": "2026-11-08"
+  },
+  "BD": {
+    "title": "A strengthening of the Nyman-Beurling criterion for the Riemann hypothesis",
+    "author": "Luis Báez-Duarte",
+    "year": 2003,
+    "journal": "Atti Accademia Nazionale dei Lincei, Rendiconti Lincei, Matematica e Applicazioni",
+    "series": 9,
+    "volume": 14,
+    "issue": 1,
+    "pages": "5–11",
+    "primary": "https://www.bdim.eu/item?id=RLIN_2003_9_14_1_5_0",
+    "verified_at": "2026-11-08",
+    "doi": "not supplied; no guessed DOI"
+  }
+}
