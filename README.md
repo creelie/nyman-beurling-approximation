@@ -13,3 +13,5 @@ We solve the finite least-squares problem for ordinary sawtooth dilates by expli
 - `checks/verify.py` and `checks/results.json`.
 
 The active papers directory contains only this current revision. Run `python checks/verify.py` to reproduce the exact finite checks. These checks do not establish research novelty or a proof-assistant formalization.
+
+Permanent work DOI: https://doi.org/10.5281/zenodo.24054093

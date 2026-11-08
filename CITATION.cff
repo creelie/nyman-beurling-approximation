@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the manuscript and the original sources it credits."
 title: "Exact Gram Inversion for Fractional-Part Approximation"
 type: article
-version: 3.0.0
+version: 3.0.1
 license: CC-BY-4.0
 repository-code: https://github.com/creelie/nyman-beurling-approximation
 authors:
@@ -20,3 +20,4 @@ authors:
     given-names: "Priyanka"
     affiliation: "Independent researcher, India"
     orcid: https://orcid.org/0000-0002-2343-9169
+doi: 10.5281/zenodo.24054093

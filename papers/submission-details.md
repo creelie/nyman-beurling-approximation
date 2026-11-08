@@ -13,7 +13,7 @@ Abstract: We solve the finite least-squares problem for ordinary sawtooth dilate
 
 Keywords: fractional-part approximation; GCD matrices; Möbius inversion; Nyman–Beurling criterion
 
-MSC2020: 11A25, 11M26, 41A10, 15A09
+MSC2020: 11A25, 11M26, 41A50, 15A09
 
 Previous version: https://www.preprints.org/manuscript/202506.0772/v2
 
